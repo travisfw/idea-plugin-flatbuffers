@@ -18,14 +18,14 @@
             up to what's actually implemented by flatc.
         </p>
         <ul>
-            <li>Initial version, targeting Flatbuffers 1.4.0</li>
+            <li>Targeting Flatbuffers 1.12.0</li>
             <li>Syntax highlighting</li>
         </ul>
         ]]>
     </change-notes>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-    <idea-version since-build="162.0"/>
+    <idea-version since-build="201.0"/>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->
